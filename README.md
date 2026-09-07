@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Localrcc&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Localrcc&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -14,7 +14,18 @@
 
 ###
 
-<p data-importer="text" align="left">## 👋 Hey, I'm Localrcc<br><br>**20-year-old Croatian newbie developer trying to find my way around.**<br><br>- 🤖 AI & intelligent systems<br>- 💻 Software engineering & development<br>- 🧠 Understanding how things work under the hood<br>- 🛠️ Building tools & turning ideas into working projects<br>- 🔬 Experimenting with new technologies<br>- 🎨 The intersection of technology & creativity</p>
+<div data-importer="text" align="left">
+  <h3>👋 Hey, I'm Localrcc</h3>
+  <p><strong>20-year-old Croatian newbie developer trying to find my way around.</strong></p>
+  <ul>
+    <li>🤖 AI &amp; intelligent systems</li>
+    <li>💻 Software engineering &amp; development</li>
+    <li>🧠 Understanding how things work under the hood</li>
+    <li>🛠️ Building tools &amp; turning ideas into working projects</li>
+    <li>🔬 Experimenting with new technologies</li>
+    <li>🎨 The intersection of technology &amp; creativity</li>
+  </ul>
+</div>
 
 ###
 
